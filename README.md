@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 <p align="center">
   Passionate <b>Software Developer</b> specializing in <b>Machine Learning</b>, <b>AI</b>, and <b>Data Analytics</b>.  
@@ -14,15 +14,15 @@
   I’m always exploring how technology and AI can solve real-world challenges.
 </p>
 
-- 🎓 MCA Graduate in Computer Science  
-- 🧠 Exploring: Deep Learning | Data Visualization | Generative AI  
-- 💼 Experienced in: Python | Django | SQL | Power BI | Tableau | ML  
-- 📬 Reach me: **[aswathyshibinm@gmail.com](mailto:aswathyshibinm@gmail.com)**  
-- 🌐 Portfolio: [github.com/aswathyshibin](https://github.com/aswathyshibin)
+-  MCA Graduate in Computer Science  
+-  Exploring: Deep Learning | Data Visualization | Generative AI  
+-  Experienced in: Python | Django | SQL | Power BI | Tableau | ML  
+-  Reach me: **[aswathyshibinm@gmail.com](mailto:aswathyshibinm@gmail.com)**  
+-  Portfolio: [github.com/aswathyshibin](https://github.com/aswathyshibin)
 
 ---
 
-### 🧩 Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <!-- Core Languages -->
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Overview (All-in-One Dashboard)
+###  GitHub Overview (All-in-One Dashboard)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswathyshibin&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="32%"/>
@@ -74,15 +74,15 @@
 
 ---
 
-### 🏆 Achievements
-- 💻 Created **AI-driven web applications** using Django & TensorFlow  
-- 📊 Designed **interactive dashboards** with Power BI & Tableau  
-- 🧠 Conducted **Data Science & ML Training Programs**  
-- 🚀 Developed **End-to-End Machine Learning Pipelines**  
+###  Achievements
+-  Created **AI-driven web applications** using Django & TensorFlow  
+-  Designed **interactive dashboards** with Power BI & Tableau  
+-  Conducted **Data Science & ML Training Programs**  
+-  Developed **End-to-End Machine Learning Pipelines**  
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="mailto:aswathyshibinm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
